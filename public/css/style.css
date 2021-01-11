@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D&display=swap');
+body {
+    background-color: #333;
+}
+
+.allPageMain {
+    height: 100vh;
+}
+
+.allPageMain h2 {
+    color: #fff;
+    font-family: 'K2D';
+}
+
+.allPageMain p {
+    color: #fff;
+    font-family: 'K2D';
+}
+
+.color-orange {
+    color: rgb(246, 167, 20)
+}
+
+a:hover {
+    color: rgb(246, 167, 20) !important;
+}
